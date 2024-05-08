@@ -9,5 +9,7 @@ public class GitExApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitExApplication.class, args);
 	}
+public void dbcon(){
+}
 
 }
